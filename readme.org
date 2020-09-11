@@ -12,7 +12,7 @@ In the short [[https://youtu.be/dRkSsFrLmCw][example_video]], I've already downl
 
 It shows the basic usage which is also explained here below.
 
-** Thoroughly Explained
+*** Video Thoroughly Explained
 > Open the program va.py.
 
 > Type in a disability value and hit 'Enter'.
