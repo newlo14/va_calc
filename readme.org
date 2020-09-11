@@ -2,6 +2,8 @@ OK, so I've written a really basic terminal program that calculates the VA disab
 
 It takes a set of inputs and calculates a disability rating based on the official [[https://www.va.gov/VA-combined-ratings-table-2019.pdf][combined ratings table from Veterans Affairs (2019)]].
 
+Feel free to use the program with additional *arbitrary* values.
+
 * Prerequisites
 >  Install python (version 3.5 or higher) from [[https://www.python.org/][python.org]]
 
@@ -26,6 +28,3 @@ It shows the basic usage which is also explained here below.
 > É voilà!
 
 > Press 'Enter' again to quit.
-
-** Side Note
-Feel free to use the program with additional *arbitrary* values.
