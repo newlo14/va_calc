@@ -29,7 +29,7 @@ It shows the basic usage which is also explained here below.
 
 > Press 'Enter' again to quit.
 
-* Notes on rounding
+** Notes on rounding
 VA rounds up only at increments of five.
 
 > 65% -> 70%
