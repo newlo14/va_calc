@@ -1,0 +1,31 @@
+OK, so I've written a really basic terminal program that calculates the VA disability values, does the "VA math".
+
+It takes a set of inputs and calculates a disability rating based on the official [[https://www.va.gov/VA-combined-ratings-table-2019.pdf][combined ratings table from Veterans Affairs (2019)]].
+
+* Prerequisites
+>  Install python (version 3.5 or higher) from [[https://www.python.org/][python.org]]
+
+>  Download and extract the /va.py/ file from this repository using the green "Code" button above.
+* Usage
+** Example Video
+In the short [[https://youtu.be/dRkSsFrLmCw][example_video]], I've already downloaded python on a Windows machine.
+
+It shows the basic usage which is also explained here below.
+
+** Thoroughly Explained
+> Open the program va.py.
+
+> Type in a disability value and hit 'Enter'.
+
+> Only full decades (10, 20, 30, ... 100) are allowed.
+
+> Type in all values separately.
+
+> When all values have been entered, eXit with 'x'.
+
+> É voilà!
+
+> Press 'Enter' again to quit.
+
+** Side Note
+Feel free to use the program with additional *arbitrary* values.
