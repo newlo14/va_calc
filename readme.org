@@ -28,3 +28,10 @@ It shows the basic usage which is also explained here below.
 > É voilà!
 
 > Press 'Enter' again to quit.
+
+* Notes on rounding
+VA rounds up only at increments of five.
+
+> 65% -> 70%
+
+> 64% -> 60%
